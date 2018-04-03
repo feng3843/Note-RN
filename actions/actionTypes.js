@@ -1,0 +1,35 @@
+//LOGIN REGISTER  LOGOUT
+export const DO_LOGIN = 'DO_LOGIN';
+export const DO_REGISTER = 'DO_REGISTER';
+export const DO_LOGOUT = 'DO_LOGOUT';
+
+export const LOGIN_SUCCESS = 'LOGIN_SUCCESS';
+export const LOGIN_FAIL = 'LOGIN_FAIL';
+export const REGISTER_SUCCESS = 'REGISTER_SUCCESS';
+export const REGISTER_FAIL = 'REGISTER_FAIL';
+export const LOGOUT_SUCCESS = 'LOGOUT_SUCCESS';
+export const LOGOUT_FAIL = 'LOGOUT_FAIL';
+
+//BILL
+export const DO_FATCH_BILL = 'DO_FATCH_BILL';
+export const DO_ADD_BILL = 'DO_ADD_BILL';
+export const DO_UPDATE_BILL = 'DO_UPDATE_BILL';
+export const DO_DELETE_BILL = 'DO_DELETE_BILL';
+
+export const FATCH_BILL_SUCCESS = 'FATCH_BILL_SUCCESS';
+export const FATCH_BILL_FAIL = 'FATCH_BILL_FAIL';
+export const ADD_BILL_SUCCESS = 'ADD_BILL_SUCCESS';
+export const ADD_BILL_FAIL = 'ADD_BILL_FAIL';
+export const UPDATE_BILL_SUCCESS = 'UPDATE_BILL_SUCCESS';
+export const UPDATE_BILL_FAIL = 'UPDATE_BILL_FAIL';
+export const DELETE_BILL_SUCCESS = 'DELETE_BILL_SUCCESS';
+export const DELETE_BILL_FAIL = 'DELETE_BILL_FAIL';
+
+export const DO_NETWORKING = 'DO_NETWORKING';
+export const DO_NETWORK_END = 'DO_NETWORK_END';
+
+export const DO_SELECT_DATE = 'DO_SELECT_DATE';
+
+
+export const GO_NEW_BILL = 'GO_NEW_BILL';
+export const GO_EDIT_BILL = 'GO_EDIT_BILL';

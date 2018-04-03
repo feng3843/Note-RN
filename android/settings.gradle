@@ -1,0 +1,3 @@
+rootProject.name = '芝麻记账本'
+
+include ':app'
